@@ -1,2 +1,3 @@
 cmake/CMakeMatlabPackageConfig/* linguist-vendored
+cmake/UncommonCMakeModules/* linguist-vendored
 scripts/* linguist-vendored
