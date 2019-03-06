@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/markjolah/CMakeMatlabPackageConfig
 	branch = master
-	commit = 8dc24a3b989dd422553d4590a48d2c68b476b3c5
-	parent = f657d7a05acd2d8a5d48842e85e3bdf214208b5b
+	commit = 3d4447a8f592b5a8c6a4a87c7af3234afc15f8ef
+	parent = 0fa5d93c3ecfc10e2438845fc3977411b62df47f
 	method = merge
 	cmdver = 0.4.0
