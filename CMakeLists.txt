@@ -1,4 +1,4 @@
-# GUIBuilder - A mixin class, with methods for creating interactive GUIs for objects.
+# GUIBuilder - A Matlab mixin class, with methods for creating interactive GUIs for objects.
 #
 # Mark J. Olah (mjo@cs.unm DOT edu)
 # Copyright 2013-2019
